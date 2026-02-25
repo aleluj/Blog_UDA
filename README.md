@@ -9,7 +9,7 @@ Serve come guida sia per la progettazione grafica (Canva) sia per lo sviluppo in
 
 Questi siti sono stati analizzati per definire struttura, layout e stile del blog:
 
-| Sito | Cosa copiare |
+| Sito | Ispirazione |
 |------|-------------|
 | **[Morpheus Education Blog](https://www.morpheus.education/it/blog)** | Struttura blog perfetta: menu in alto, Home con ultimi articoli (titolo+anteprima+immagine), footer con contatti |
 | **[DeepCharts](https://www.deepcharts.com/)** | Grafica moderna blu scuro, titoli verdi, testo bianco, layout squadrato con bordi arrotondati, hover effects |
@@ -137,19 +137,3 @@ Questi siti sono stati analizzati per definire struttura, layout e stile del blo
      - Cambiamento di colore del testo
    - La voce di menu della pagina attualmente aperta deve essere **evidenziata** (stato "attivo").
    - **Bottoni con effetti luminosi** al click come specificato sopra.
-
----
-
-## 📋 Roadmap del progetto
-
-1. **Progettazione su carta** (wireframe)
-2. **Prototipazione Canva** con stile blu/verde acqua
-3. **Sviluppo HTML/CSS** basato su questi requisiti
-4. **Consegna finale**:
-   - PDF requisiti + prototipo Canva
-   - Cartella ZIP: 4 HTML + 1 CSS + cartella immagini
-
----
-
-**Obiettivo**: un blog **coerente, professionale e moderno** che rispetti tutti i requisiti funzionali e grafici specificati.
-
