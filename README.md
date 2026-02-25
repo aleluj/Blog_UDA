@@ -120,11 +120,3 @@ Serve come guida sia per la progettazione grafica (Canva) sia per lo sviluppo in
      - Cambiamento di colore del testo
    - La voce di menu della pagina attualmente aperta deve essere **evidenziata** (stato “attivo”).
 
----
-
-Questo documento guida tutte le fasi del lavoro:
-- progettazione su carta (wireframe),
-- prototipazione grafica (Canva),
-- sviluppo HTML/CSS del blog.
-
-L’obiettivo è ottenere un sito coerente, chiaro e professionale, sia dal punto di vista funzionale che grafico.
