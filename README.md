@@ -1,9 +1,4 @@
-# Blog Project – Requisiti Funzionali & Grafici
 
-Questo README descrive in modo chiaro e completo cosa dovrà fare il blog e come dovrà apparire.  
-Serve come guida sia per la progettazione grafica (Canva) sia per lo sviluppo in HTML/CSS.
-
----
 
 ## 🌐 SITI DI ISPIRAZIONE
 
