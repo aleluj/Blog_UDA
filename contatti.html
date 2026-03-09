@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contattaci — Digital Pulse</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">Digital<span>Pulse</span></a>
+      <input type="checkbox" id="hamburger-toggle" class="hamburger-checkbox">
+      <div class="nav-controls">
+        <nav class="main-nav">
+          <a href="index.html" class="nav-link">Home</a>
+          <a href="articoli.html" class="nav-link">Articoli</a>
+          <a href="about.html" class="nav-link">About Us</a>
+          <a href="contatti.html" class="nav-link active">Contattaci</a>
+        </nav>
+        <label for="hamburger-toggle" class="hamburger-label">
+          <span></span><span></span><span></span>
+        </label>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <h1 class="fade-in">Contattaci</h1>
+        <p class="fade-in fade-in-delay-1">Hai domande, suggerimenti o vuoi collaborare? Scrivici!</p>
+      </div>
+    </section>
+
+    <section class="page-section">
+      <div class="container">
+        <div class="contact-grid">
+
+          <div>
+            <h2 style="margin-bottom: 1.5rem;">Inviaci un Messaggio</h2>
+            <div class="contact-form">
+              <label for="cf-name">Nome</label>
+              <input type="text" id="cf-name" name="name" placeholder="Il tuo nome">
+
+              <label for="cf-email">Email</label>
+              <input type="email" id="cf-email" name="email" placeholder="la-tua@email.com">
+
+              <label for="cf-subject">Oggetto</label>
+              <input type="text" id="cf-subject" name="subject" placeholder="Di cosa vuoi parlare?">
+
+              <label for="cf-message">Messaggio</label>
+              <textarea id="cf-message" name="message" placeholder="Scrivi il tuo messaggio..."></textarea>
+
+              <button type="button" class="btn btn-solid">
+                <i class="fa-solid fa-paper-plane"></i> Invia Messaggio
+              </button>
+            </div>
+          </div>
+
+          <div>
+            <h2 style="margin-bottom: 1.5rem;">Info di Contatto</h2>
+            <div class="contact-info-box">
+              <div class="contact-info-item">
+                <span class="contact-info-icon"><i class="fa-solid fa-envelope"></i></span>
+                <div>
+                  <h4>Email</h4>
+                  <p>redazione@digitalpulse.blog</p>
+                </div>
+              </div>
+              <div class="contact-info-item">
+                <span class="contact-info-icon"><i class="fa-solid fa-location-dot"></i></span>
+                <div>
+                  <h4>Sede</h4>
+                  <p>Istituto Tecnico Statale, Roma, Italia</p>
+                </div>
+              </div>
+              <div class="contact-info-item">
+                <span class="contact-info-icon"><i class="fa-solid fa-clock"></i></span>
+                <div>
+                  <h4>Tempi di risposta</h4>
+                  <p>Rispondiamo entro 48 ore lavorative</p>
+                </div>
+              </div>
+            </div>
+
+            <h3 style="margin-top: 2rem; margin-bottom: 1rem;">Seguici sui Social</h3>
+            <div class="social-links">
+              <a href="#" class="social-link" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+              <a href="#" class="social-link" aria-label="Twitter"><i class="fa-brands fa-x-twitter"></i></a>
+              <a href="#" class="social-link" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
+              <a href="#" class="social-link" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="index.html" class="site-logo">Digital<span>Pulse</span></a>
+        <p>Un blog dedicato alla tecnologia, all'innovazione e alla consapevolezza digitale. Scritto da studenti, per tutti.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Navigazione</h4>
+        <ul>
+          <li><a href="index.html"><i class="fa-solid fa-house fa-xs"></i> Home</a></li>
+          <li><a href="articoli.html"><i class="fa-solid fa-newspaper fa-xs"></i> Articoli</a></li>
+          <li><a href="about.html"><i class="fa-solid fa-users fa-xs"></i> About Us</a></li>
+          <li><a href="contatti.html"><i class="fa-solid fa-envelope fa-xs"></i> Contattaci</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contatti</h4>
+        <ul>
+          <li><a href="mailto:redazione@digitalpulse.blog"><i class="fa-solid fa-at fa-xs"></i> redazione@digitalpulse.blog</a></li>
+          <li><a href="#"><i class="fa-brands fa-instagram fa-xs"></i> Instagram</a></li>
+          <li><a href="#"><i class="fa-brands fa-x-twitter fa-xs"></i> Twitter / X</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Digital Pulse — Tutti i diritti riservati. P.IVA 01234567890</p>
+    </div>
+  </footer>
+
+</body>
+</html>
